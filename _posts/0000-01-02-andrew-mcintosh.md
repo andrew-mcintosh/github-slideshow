@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Andrew's slide!"
 ---
-This is my change. 
+This is my awesome slide. 
 Use the left arrow to go back!
